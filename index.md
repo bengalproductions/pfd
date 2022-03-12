@@ -1,6 +1,4 @@
-## Welcome to Pans for Documentaries
-
-#### A package of Pantam Steel Drum tracks written with documentaries in mind.
+# Pans for Documentaries<br />#### A package of Pantam Steel Drum tracks written with documentaries in mind.
 
 Music © Bengal Productions, not to be used without a license.
 
