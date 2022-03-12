@@ -5,9 +5,9 @@
 Music © Bengal Productions, not to be used without a license.
 
 ### Track: Inquisitive Mind
-<audio src="https://eu2.contabostorage.com/5c302ed2574345c1bce6f9733cf795f2:bengal/pfd_inquisitive_mind.wav" controls controlsList="nodownload"></audio>
+<audio src="https://eu2.contabostorage.com/5c302ed2574345c1bce6f9733cf795f2:bengal/pfd_inquisitive_mind.wav" controls controlsList="nodownload"></audio>   
 
-*Sounds: Pantam Steel Drum, Piano*
+*Sounds: Pantam Steel Drum, Piano*   
 
 **Written by: Eddie Coldrick**
 
