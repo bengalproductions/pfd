@@ -1,7 +1,7 @@
 # Pans for Documentaries
 #### A package of Pantam Steel Drum tracks written with documentaries in mind.
 
-Music © Bengal Productions, not to be used without a license.
+Music © PI4LI, not to be used without a license.
 
 # Tracks
 ### Track: Inquisitive Mind
@@ -11,4 +11,4 @@ Starting with a simple steel drum rhythm, the piece builds up with a pumping bas
 
 
 # Licensing
-To license, please email <contact@bengal.productions> - we would be very happy to talk about projects of any size and budget.
+To license, please email <contact@pi4li.com> - we would be very happy to talk about projects of any size and budget.
